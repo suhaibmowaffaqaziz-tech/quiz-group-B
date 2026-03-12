@@ -1,0 +1,22 @@
+const questions = [
+    { q: "Which of the following is associated with malignancy and malabsorption syndrome regarding trace elements?", o: ["Iodine deficiency", "Zinc deficiency", "High creatinine", "Low urea"], a: 1 },
+    { q: "What does the Cockcroft-Gault equation aim to estimate?", o: ["Thyroid function", "Creatinine clearance (eGFR)", "Liver enzyme activity", "Zinc concentration"], a: 1 },
+    { q: "Which enzyme is responsible for the hydrolysis of p-Nitrophenyl phosphate?", o: ["ALP", "AST", "ALT", "Urease"], a: 0 },
+    { q: "In which condition would you find a Urea/Creatinine ratio < 10?", o: ["Renal failure", "Pre-renal failure", "Normal state", "Hyperthyroidism"], a: 0 },
+    { q: "What is the main source of circulating Ammonia in the liver?", o: ["Catabolism of amino acids", "Breakdown of creatinine", "Oxidation of zinc", "Thyroid hormone degradation"], a: 0 },
+    { q: "What is a common cause of elevated serum iodine levels?", o: ["Use of iodinated contrast media", "High protein diet", "Muscle damage", "Liver dysfunction"], a: 0 },
+    { q: "The intensity of color in the Zinc assay is measured at which wavelength?", o: ["340 nm", "405 nm", "425 nm", "520 nm"], a: 2 },
+    { q: "Which enzyme is found in the liver and kidneys, and is less specific than ALT for liver damage?", o: ["AST", "ALP", "Urease", "Creatinine"], a: 0 },
+    { q: "Low levels of which enzyme may be seen in Beriberi and diabetic ketoacidosis?", o: ["AST", "ALP", "Urease", "ALT"], a: 0 },
+    { q: "What is the function of the Sodium Salicylate in the Urea assay?", o: ["To catalyze urea conversion", "To form the blue-green complex", "To inhibit ALP", "To buffer the solution"], a: 1 },
+    { q: "Creatinine is a byproduct of energy metabolism in:", o: ["Liver", "Muscles", "Thyroid gland", "Bone"], a: 1 },
+    { q: "What is a typical symptom of hypothyroidism related to trace elements?", o: ["Iodine deficiency", "Zinc excess", "Creatinine elevation", "AST inhibition"], a: 0 },
+    { q: "Why is the relationship between Creatinine and kidney function curvilinear?", o: ["Due to changes in muscle mass and generation", "Due to interference by urea", "Due to zinc deficiency", "Due to improper dilution"], a: 0 },
+    { q: "Which enzyme is crucial for the indicator reaction of ALT?", o: ["LDH", "MDH", "Urease", "ALP"], a: 0 },
+    { q: "Which sample type requires removal of precipitates via centrifugation before the zinc test?", o: ["Urine", "Serum or Plasma", "Whole blood", "Saliva"], a: 1 },
+    { q: "What is the primary indicator of liver cell death?", o: ["ALT", "ALP", "Urease", "Zinc"], a: 0 },
+    { q: "Which mineral is required for the synthesis and repair of DNA and RNA?", o: ["Iodine", "Zinc", "Creatinine", "Urea"], a: 1 },
+    { q: "Which condition is NOT typically associated with increased Urea levels?", o: ["Congestive heart failure", "Urinary obstruction", "Liver failure", "Severe burns"], a: 2 },
+    { q: "What is the primary goal of adjusting medication doses based on eGFR?", o: ["To prevent toxicity in kidney disease", "To increase iodine absorption", "To balance zinc levels", "To lower liver enzymes"], a: 0 },
+    { q: "At what wavelength is the creatinine (Jaffe) reaction measured?", o: ["340 nm", "405 nm", "520 nm", "425 nm"], a: 2 }
+];
